@@ -2,7 +2,7 @@
 """
 Created on Mon Jan 12 09:54:49 2026
 
-@author: sofiene
+@author: sofiene dogukan adel
 """
 # =========================
 #Tous nos imports
