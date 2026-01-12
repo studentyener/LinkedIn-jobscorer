@@ -1,18 +1,66 @@
-# Python
+##################################
+# Python (général)
+##################################
 __pycache__/
 *.py[cod]
+*.pyo
+*.pyd
 
+##################################
 # Environnements virtuels
+##################################
 env/
+venv/
 .venv/
 
-# IDE
+##################################
+# IDE / éditeurs
+##################################
 .vscode/
 .idea/
+.spyderproject
+.spyproject
 
-# Logs
+##################################
+# Système
+##################################
+.DS_Store
+Thumbs.db
+
+##################################
+# Logs / temporaires
+##################################
 *.log
+*.tmp
+*.bak
 
-# Secrets
+##################################
+# Données LinkedIn (sensibles)
+##################################
+data/
+linkedin_data/
+*.csv
+*.json
+
+##################################
+# Clés API / secrets
+##################################
 .env
 config.py
+apikey.py
+secrets.py
+
+##################################
+# Exports / résultats
+##################################
+output/
+results/
+reports/
+
+##################################
+# Fichiers lourds non nécessaires
+##################################
+*.zip
+*.tar
+*.tar.gz
+
