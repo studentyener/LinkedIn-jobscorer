@@ -3,3 +3,5 @@ Nous avons développé une application spécialisée dans l’analyse de profils
 En combinant des méthodes de comparaison par mots-clés, des statistiques descriptives et, de manière optionnelle, des modèles d’intelligence artificielle, l’application est capable de produire un score de compatibilité, un résumé de l’annonce ainsi que des conseils personnalisés. Elle intègre également des données provenant de sources externes via l’API officielle Google Custom Search afin de faciliter la recherche d’offres pertinentes.
 
 Le code que nous avons développé prend en charge l’ensemble de ces fonctionnalités en interagissant avec l’utilisateur à travers une interface graphique, en analysant les informations fournies et en restituant les résultats de manière claire, visuelle et compréhensible.
+
+AIT AMROUCHE Nicolas, DIB Adel et YENER Dogukan
